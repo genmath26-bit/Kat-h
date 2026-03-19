@@ -9,7 +9,7 @@ from .entities import (
     Floor,
     GameOver,
     Pipes,
-    Player,
+    Player, 
     PlayerMode,
     Score,
     WelcomeMessage,

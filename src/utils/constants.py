@@ -22,8 +22,10 @@ PLAYERS = (
 
 # list of backgrounds
 BACKGROUNDS = (
-    "assets/sprites/background-day.png",
-    "assets/sprites/background-night.png",
+    #"assets/sprites/background-day.png",
+    #"assets/sprites/background-night.png",
+    #"assets/sprites/pngwing.com.png",
+    "assets/sprites/w.jpeg",
 )
 
 # list of pipes
